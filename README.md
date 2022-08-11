@@ -1,10 +1,11 @@
-# hyperblog
-<<<<<<< HEAD
+
+
+# Hyperblog
+
+
 Un blog para el curso de Platzi
 
-
-=======
 Tarea Platzi
 
-Hay que añadir colaboradores
+Hay que anadir colaboradores
 
